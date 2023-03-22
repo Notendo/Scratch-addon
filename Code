@@ -1,6 +1,7 @@
 class MyExtension {
 Scratch.extensions.register(new Blocks());
 
+
   getInfo() {
     return {
       id: 'hi',
